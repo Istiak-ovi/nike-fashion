@@ -15,7 +15,7 @@
 .part1{
     background-color:hsla(39, 75%, 89%, 0.822);
 }
-.head-1{
+.head-1,.price{
     color:orange;
 }
 .card-img-top{
