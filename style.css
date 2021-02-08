@@ -1,0 +1,42 @@
+.nav-image img{
+    width:177.07px;
+    height: 57px;
+}
+.first-img{
+    width:100%;
+}
+.last-img{
+    width:100%;
+}
+.bottom-img-1{
+    height:70%;
+    width:100%;
+}
+.part1{
+    background-color:hsla(39, 75%, 89%, 0.822);
+}
+.head-1{
+    color:orange;
+}
+.card-img-top{
+    padding:40px;
+    color: lightgrey;
+    width:100%;
+}
+.text-color{
+    font-size:40px;
+}
+.shdow-card{
+    border:none;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-img-top{
+    width: 100%;
+}
+.shoe-card-footer{
+    background-color: white;
+    border:0;
+}
+.bottom-row-1{
+    border:1px solid black;
+}
